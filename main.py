@@ -1,3 +1,4 @@
 VERSION = "0.1"
 
-print(f'Version: {VERSION}')
+print(f'Версия: {VERSION}')
+input("Введите enter для выхода...")
