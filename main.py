@@ -1,5 +1,4 @@
-VERSION = "0.1"
+VERSION = "3"
 
 print(f'Версия: {VERSION}')
-input("Введите enter для выхода...")
 print(f'Третий комит')
